@@ -1,4 +1,4 @@
-# Biopsy_reporting_system_for_Endoscopy
+# Biopsy reporting system for Endoscopy
 
 thanks to [datasets.simula.no](https://datasets.simula.no/) for the biopsy instruments dataset <br>dataset available at [datasets.simula.no/kvasir-instrument](https://datasets.simula.no/kvasir-instrument/)
 
