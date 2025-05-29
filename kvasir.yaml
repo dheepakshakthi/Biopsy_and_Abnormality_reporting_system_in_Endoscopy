@@ -1,7 +1,7 @@
-path: /home/n1zhal/HDD_DATA/college docs/2nd year internship/programs/dataset2_instruments
-train: /home/n1zhal/HDD_DATA/college docs/2nd year internship/programs/dataset2_instruments/images
-val: /home/n1zhal/HDD_DATA/college docs/2nd year internship/programs/dataset2_instruments/images
-test: /home/n1zhal/HDD_DATA/college docs/2nd year internship/programs/dataset2_instruments/images
+path: path_to_your_dataset
+train: path_to_your_dataset/train/images
+val: path_to_your_dataset/val/images
+test: path_to_your_dataset/test/images
 
 names:
   0: instrument
