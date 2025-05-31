@@ -11,5 +11,6 @@ For the detection, i have used [yolo11](https://docs.ultralytics.com/models/yolo
 <br><br>
 The kvasir-instruments dataset consisted images of biopsy instruments during biopsy as well as the images of the endoscope pipe. We can confirm the biopsy only when the biopsy instruments are taken out in front of the camera and not the pipe.  
 <br>
-<h2>Enhancements that can be made</h2>
+<h2>Enhancements to be made</h2>
 The biopsy is reported with the location of where the abnormality was seen. Reporting the location can be done with classification of the tract and that can be run side-by-side with this model. (soon to be updated) 
+A reporting system GUI is being created using flask (this is a prototype application).
