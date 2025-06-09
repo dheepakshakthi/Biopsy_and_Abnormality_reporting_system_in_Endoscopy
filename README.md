@@ -9,4 +9,7 @@ For the detection, i have used [yolo11](https://docs.ultralytics.com/models/yolo
 <br>
 <br>
 <b>
-I am curently working on classification of anatomical landmarks and detection of polyps and the source code for them will be updated soon! </b>
+I am curently working on classification of anatomical landmarks, detection of polyps and a interface the for managing the report. source code for them will be updated soon! </b>
+
+<h2>Requirements</h2>
+you might need atleast a RTX 3060 graphics to have a better inference... especially when running multiple models in the same device, you might need a device which has higher performance. 
